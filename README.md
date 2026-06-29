@@ -28,7 +28,7 @@
 | 🏨 ホテル清掃管理コンソール | 管理者向け清掃割当・スタッフシフト申告・報酬集計（詳細版） | [デモ](https://hotel-shift-system.pages.dev/) |
 | 🍜 飲食店 オーダー研修 | 飲食店スタッフ向け調理手順・提供セット研修ツール | [デモ](https://sobakichi-ordersaport.pages.dev/) |
 | 🤖 AIシフト自動生成 | 希望シフトをもとにGemini AIが最適シフトを自動生成 | [デモ](https://shift-maike.pages.dev/) |
-| 🗺️ ホテル周辺マップ | Gemini AI × Leaflet で周辺観光スポットを案内 | [デモ](https://hotel-around-map.pages.dev/) |
+| 🗺️ ホテル周辺マップ | Gemini AI × Leaflet で周辺観光スポットを案内 | [デモ](https://hotel-around-map.tatagen.workers.dev) |
 | 📊 ホテル予約需要予測 | AIが過去予約データから需要を予測し価格戦略を提案 | [デモ](https://hotelpredict.pages.dev/) |
 
 ---
