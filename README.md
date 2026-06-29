@@ -1,14 +1,40 @@
-# こんにちは！たたげんです
+# こんにちは！たたげんです 👋
 
-ITを活用した業務改善に興味を持つ学生エンジニアです。旅館・ホテル・飲食店など、現場の課題を解決するWebアプリを開発しています。
+ITを活用した業務改善に興味を持つ学生エンジニアです。  
+旅館・ホテル・飲食店など、**現場の課題を解決するWebアプリ**を実業務の観察をもとに開発しています。
 
-## 制作アプリ一覧
+---
+
+## 🛠️ 技術スタック
+
+| 分類 | 技術 |
+|------|------|
+| フロントエンド | React 19 / TypeScript / Tailwind CSS 4 |
+| バックエンド | Python / FastAPI |
+| データベース | Firebase Firestore / Supabase / LocalStorage |
+| AI | Gemini API / Google AI Studio |
+| デプロイ | Cloudflare Pages / Render.com |
+| ビルド | Vite 6 |
+
+---
+
+## 🏗️ 制作アプリ一覧
 
 | アプリ名 | 概要 | デモ |
 |---------|------|------|
 | ♨️ 温泉休憩室 混雑管理 | 座布団マップ・待合キュー・退出時間をリアルタイム管理 | [デモ](https://onsen-rest-congestion-management.pages.dev/) |
+| 🏨 ホテル客室清掃・インシデント管理 | 客室の清掃状況とトラブルをリアルタイム一元管理 | [デモ](https://room-management-system.pages.dev/) |
+| 🍽️ 食堂AIカメラ混雑監視 | AIカメラ×Firestoreで食堂の混雑をリアルタイム可視化 | [デモ](https://cafeteria-vision-ai.pages.dev/) |
 | 🧹 ホテル清掃シフト管理 | 清掃員のシフト・部屋割当・報酬集計をワンストップ管理 | [デモ](https://hotel-cleaning-shift-646.pages.dev/) |
 | 🏨 ホテル清掃管理コンソール | 管理者向け清掃割当・スタッフシフト申告・報酬集計 | [デモ](https://hotel-cleaning-manager.pages.dev/) |
 | 🍜 そば吉 オーダー研修 | 飲食店スタッフ向け調理手順・提供セット研修ツール | [デモ](https://sobakichi-ordersaport.pages.dev/) |
-| 🗺️ ホテル周辺マップ | Gemini AI × Leaflet で周辺観光スポットを案内 | ローカル実行 |
-| 🤖 AIシフト自動生成 | 希望シフトをもとにGemini AIが最適シフトを自動生成 | ローカル実行 |
+| 🤖 AIシフト自動生成 | 希望シフトをもとにGemini AIが最適シフトを自動生成 | [デモ](https://shift-maike.pages.dev/) |
+| 🗺️ ホテル周辺マップ | Gemini AI × Leaflet で周辺観光スポットを案内 | [デモ](https://hotel-around-map.pages.dev/) |
+| 📊 ホテル予約需要予測 | AIが過去予約データから需要を予測し価格戦略を提案 | [デモ](https://hotelpredict.pages.dev/) |
+
+---
+
+## 📬 お問い合わせ
+
+- Email: t.t.gengorou@gmail.com
+- GitHub: [@tatagen](https://github.com/tatagen)
