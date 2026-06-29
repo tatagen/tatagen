@@ -1,119 +1,47 @@
-<div align="center">
+# こんにちは！👋
 
-# tatagen
-
-**大学生 × フルスタック開発者 × スタートアップ志向**
-
-AIと現場をつなぐプロダクトを、企画からデプロイまでひとりで作っています。
-
-</div>
+愛媛県の旅館・飲食店・ホテルの現場課題をITで解決することに興味を持つ学生です。
+実際の業務現場で使われることを意識したWebアプリを開発しています。
 
 ---
 
-## 👋 自己紹介
-
-工学部に在籍する大学生です。飲食・宿泊・シフト管理など、**実際の業務現場で使われることを前提**にしたWebアプリを開発しています。
-
-アイデアの企画・設計からフロントエンド・バックエンド・インフラ・デプロイまで、フルスタックで一気通貫に手がけるのが強みです。AIを積極的に組み込み、「考えて動くシステム」を目指しています。
-
-- 🎓 大学生（工学部）
-- 🔨 得意：フルスタックWebアプリ開発 / AI活用 / 業務システム設計
-- 🚀 現在：業務効率化プロダクトを複数開発・運用中
-
----
-
-## 🛠 技術スタック
+## 🛠️ 技術スタック
 
 **フロントエンド**
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**バックエンド**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**データベース / インフラ**
-
-![Firebase](https://img.shields.io/badge/Firebase-FF6C37?style=flat-square&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+**バックエンド / データ**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
 **AI**
-
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
----
-
-## 📁 制作プロダクト
-
-<table>
-<tr>
-<td width="50%">
-
-### 🍽 SmartCafé Intelligence
-AIカメラで食堂の混雑をリアルタイム監視。Gemini 1.5 Flashが画像を解析し、混雑度・占有率・行列の有無を自動判定。利用者向け公開画面と管理者向けダッシュボードの2画面構成。
-
-`React` `TypeScript` `Firebase` `Gemini API`
-
-[→ リポジトリを見る](https://github.com/tatagen/cafeteria-vision-ai)
-
-</td>
-<td width="50%">
-
-### ♨️ 道後温泉 空き部屋管理
-の空き部屋リアルタイム管理システム。CSRF対策・レートリミット・永久BAN機能を備えた本番品質の認証基盤を含む。
-
-`Python` `FastAPI` `Supabase` `Render.com`
-
-[→ リポジトリを見る](https://github.com/tatagen/dogoakiheyasysytem_tama3)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏨 ホテル清掃オペ管理
-客室清掃の進捗と写真付きインシデント報告をリアルタイム管理。マネージャー・清掃スタッフの役割別UIで現場の情報共有を効率化。
-
-`React 19` `TypeScript` `Firebase`
-
-[→ リポジトリを見る](https://github.com/tatagen/room-management-system)
-
-</td>
-<td width="50%">
-
-### 🤖 ShiftFlow AI
-スタッフの希望シフトをAIが自動で最適化するシフト管理システム。申請・承認フローやリアルタイム通知も実装。
-
-`React` `TypeScript` `Firebase` `Gemini API`
-
-[→ リポジトリを見る](https://github.com/tatagen/Shift-Maike)
-
-</td>
-</tr>
-</table>
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?logo=tensorflow&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📦 制作アプリ一覧
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatagen&show_icons=true&hide_border=true&count_private=true&theme=default)
-
-</div>
+| アプリ | 概要 | デモ |
+|--------|------|------|
+| [♨️ 温泉休憩室 混雑管理](https://github.com/tatagen/onsen-rest-congestion-management) | 座布団マップ・待合キュー・退出時間をリアルタイム管理 | [🖥️ デモ](https://tatagen.github.io/onsen-rest-congestion-management/) |
+| [🏨 ホテル清掃シフト管理](https://github.com/tatagen/hotel-cleaning-shift) | シフト管理・部屋割当・報酬集計をワンストップ | [🖥️ デモ](https://tatagen.github.io/hotel-cleaning-shift/) |
+| [🧹 ホテル清掃 管理コンソール](https://github.com/tatagen/hotel-cleaning-manager) | スタッフのシフト申告・割当・報酬集計を一元管理 | [🖥️ デモ](https://tatagen.github.io/hotel-cleaning-manager/) |
+| [🛎️ ホテル客室清掃・インシデント管理](https://github.com/tatagen/room-management-system) | 客室状態・インシデントをリアルタイム共有 | Firebase 必要 |
+| [🍱 食堂AIカメラ 混雑監視](https://github.com/tatagen/cafeteria-vision-ai) | TensorFlow.js で食堂の混雑をリアルタイム検知 | Firebase 必要 |
+| [📅 AIシフト自動生成](https://github.com/tatagen/Shift-Maike) | Gemini AI がスタッフ希望を考慮してシフトを自動作成 | GEMINI_API_KEY 必要 |
+| [🏯 道後温泉 空き部屋管理](https://github.com/tatagen/dogoakiheyasysytem_tama3) | 旅館向け客室状態・顧客フロー管理（Python+FastAPI） | Render.com |
+| [🗺️ ホテル周辺 コンシェルジュ](https://github.com/tatagen/hotel-around-map) | Gemini AI × Leaflet で周辺観光情報を案内 | GEMINI_API_KEY 必要 |
+| [📊 ホテル価格 最適化システム](https://github.com/tatagen/hotelpredict) | 地域イベント・稼働率連動の宿泊価格予測・分析 | GEMINI_API_KEY 必要 |
+| [🍜 そば吉 オーダー研修ツール](https://github.com/tatagen/Sobakichi_ordersaport) | 飲食店スタッフ向け調理手順・提供セット研修ツール | [🖥️ デモ](https://tatagen.github.io/Sobakichi_ordersaport/) |
 
 ---
 
-<div align="center">
+## 📫 連絡先
 
-現場の課題を、自分の手でプロダクトに変える。
-
-</div>
+- Email: t.t.gengorou@gmail.com
