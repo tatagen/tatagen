@@ -1,4 +1,4 @@
-#ITを活用した業務改善に興味を持つ学生エンジニアです。  
+# ITを活用した業務改善に興味を持つ学生エンジニアです。
 旅館・ホテル・飲食店など、**現場の課題を解決するWebアプリ**を実業務の観察をもとに開発しています。
 
 ---
@@ -10,7 +10,7 @@
 | フロントエンド | React 19 / TypeScript / Tailwind CSS 4 |
 | バックエンド | Python / FastAPI |
 | データベース | Firebase Firestore / Supabase / LocalStorage |
-| AI | Gemini API / Google AI Studio |
+| AI | Gemini API |
 | デプロイ | Cloudflare Pages / Render.com |
 | ビルド | Vite 6 |
 
