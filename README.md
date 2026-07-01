@@ -40,7 +40,7 @@
 | 🍜 飲食店 オーダー研修 | 飲食店スタッフ向け調理手順・提供セット研修ツール | [デモ](https://sobakichi-ordersaport.pages.dev/) |
 | 🤖 AIシフト自動生成 | 希望シフトをもとにGemini AIが最適シフトを自動生成 | [デモ](https://shift-maike.pages.dev/) |
 | 🗺️ ホテル周辺マップ | Leaflet でホテル周辺の観光スポットを地図案内 | [デモ](https://hotel-around-map.tatagen.workers.dev) |
-| 📊 ホテル予約需要予測 | AIが過去予約データから需要を予測し価格戦略を提案 | [デモ](https://hotelpredict.pages.dev/) |
+| 📊 ホテル予約需要予測 | 需要予測と競合価格分析で価格戦略を提案 | [デモ](https://hotelpredict.pages.dev/) |
 
 ---
 
