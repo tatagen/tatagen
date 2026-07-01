@@ -32,7 +32,7 @@
 | アプリ名 | 概要 | デモ |
 |---------|------|------|
 | ♨️ 温泉休憩室 混雑管理 | 座布団マップ・待合キュー・退出時間をリアルタイム管理 | [デモ](https://onsen-rest-congestion-management.pages.dev/) |
-| 🏯 道後温泉 空き部屋管理 | 客室状態・顧客フロー・認証付きのリアルタイム旅館管理 | [デモ](https://dogoakiheyasysytem-tama3.tatagen.workers.dev) |
+| 🏯 旅館 空き部屋管理 | 客室状態・顧客フロー・認証付きのリアルタイム旅館管理 | [デモ](https://dogoakiheyasysytem-tama3.tatagen.workers.dev) |
 | 🏨 ホテル客室清掃・インシデント管理 | 客室の清掃状況とトラブルをリアルタイム一元管理 | [デモ](https://room-management-system.pages.dev/) |
 | 🍽️ 食堂AIカメラ混雑監視 | AIカメラ×Firestoreで食堂の混雑をリアルタイム可視化 | [デモ](https://cafeteria-vision-ai.pages.dev/) |
 | 🧹 ホテル清掃シフト管理 | 清掃員のシフト・部屋割当・報酬集計をワンストップ管理 | [デモ](https://hotel-cleaning-shift-646.pages.dev/) |
