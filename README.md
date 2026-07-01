@@ -5,14 +5,25 @@
 
 ## 🛠️ 技術スタック
 
+### 現在使用中
+
 | 分類 | 技術 |
 |------|------|
 | フロントエンド | React 19 / TypeScript / Tailwind CSS 4 |
-| バックエンド | Python / FastAPI / Cloudflare Workers |
-| データベース | Firebase Firestore / Supabase / LocalStorage |
+| バックエンド | Python / FastAPI / Cloudflare Workers / Hono |
+| データベース | Firebase Firestore / Supabase / D1 / KV / LocalStorage |
 | AI | Gemini API |
 | デプロイ | Cloudflare Pages / Cloudflare Workers |
 | ビルド | Vite 6 |
+
+### 過去使用
+
+| 分類 | 技術 |
+|------|------|
+| フロントエンド | Vanilla HTML / CSS / JavaScript / Jinja2 |
+| バックエンド | Express.js |
+| ホスティング | Render.com |
+| 監視・運用 | UptimeRobot / GitHub Actions |
 
 ---
 
