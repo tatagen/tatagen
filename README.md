@@ -48,3 +48,5 @@
 
 - Email: t.t.gengorou@gmail.com
 - GitHub: [@tatagen](https://github.com/tatagen)
+
+<!-- pr-agent + ollama 動作確認用のテストPR。マージ不要、確認後クローズ予定 -->
