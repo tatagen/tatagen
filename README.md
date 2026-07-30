@@ -37,7 +37,7 @@
 | 🍽️ 食堂AIカメラ混雑監視 | AIカメラ×Firestoreで食堂の混雑をリアルタイム可視化 | [デモ](https://cafeteria-vision-ai.pages.dev/) |
 | 🧹 ホテル清掃シフト管理 | 清掃員のシフト・部屋割当・報酬集計をワンストップ管理 | [デモ](https://hotel-cleaning-shift-646.pages.dev/) |
 | 🏨 ホテル清掃管理コンソール | 管理者向け清掃割当・スタッフシフト申告・報酬集計（詳細版） | [リポジトリ](https://github.com/tatagen/hotel-shift-system) |
-| 🍜 飲食店 オーダー研修 | 飲食店スタッフ向け調理手順・提供セット研修ツール | [デモ](https://sobakichi-ordersaport.pages.dev/) |
+| 🍜 飲食店 オーダー研修 | 飲食店スタッフ向け調理手順・提供セット研修ツール | [リポジトリ](https://github.com/tatagen/restaurant-order-training) |
 | 🤖 AIシフト自動生成 | 希望シフトをもとにGemini AIが最適シフトを自動生成 | [デモ](https://shift-maike.pages.dev/) |
 | 🗺️ ホテル周辺マップ | Leaflet でホテル周辺の観光スポットを地図案内 | [デモ](https://hotel-around-map.tatagen.workers.dev) |
 | 📊 ホテル予約需要予測 | 需要予測と競合価格分析で価格戦略を提案 | [デモ](https://hotelpredict.pages.dev/) |
